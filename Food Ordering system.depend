@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621148617 source:c:\users\123\desktop\charana\food ordering system\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
